@@ -1,11 +1,11 @@
-#Bank-Churn-Modelling
-#Objective
+# Bank-Churn-Modelling
+# Objective
 To build a predictive model to determine whether a bank customer is likely to churn based on various customer attributes.
 
-#Data Source
+# Data Source
 The dataset used for this project contains information about bank customers, including their demographics, account information, and whether they have churned.
 
-#Project Steps
+# Project Steps
 Import Libraries:- Python libraries for data manipulation, visualization, and machine learning are imported.
 
 Import Data:- The dataset is loaded into a pandas DataFrame.
